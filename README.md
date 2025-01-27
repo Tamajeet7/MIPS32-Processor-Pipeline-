@@ -70,19 +70,3 @@ The control unit generates appropriate signals for each stage, ensuring proper o
   - Proper branching, memory operations, and halting behavior.
 - Waveforms generated during simulations provide a visual verification of pipeline execution.
 
-## Contributing
-Contributions to improve the processor’s functionality or add new features are welcome! Please follow these steps:
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add feature'`
-4. Push to your branch: `git push origin feature-name`
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-For any questions or suggestions, please contact:
-[Your Name]  
-[Your Email]
-
